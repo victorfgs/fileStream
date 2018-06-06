@@ -1,0 +1,14 @@
+/home/victorfgs/Área de Trabalho/Research/testestream/bin/Debug/netcoreapp2.1/testestream.deps.json
+/home/victorfgs/Área de Trabalho/Research/testestream/bin/Debug/netcoreapp2.1/testestream.runtimeconfig.json
+/home/victorfgs/Área de Trabalho/Research/testestream/bin/Debug/netcoreapp2.1/testestream.runtimeconfig.dev.json
+/home/victorfgs/Área de Trabalho/Research/testestream/bin/Debug/netcoreapp2.1/testestream.dll
+/home/victorfgs/Área de Trabalho/Research/testestream/bin/Debug/netcoreapp2.1/testestream.pdb
+/home/victorfgs/Área de Trabalho/Research/testestream/obj/Debug/netcoreapp2.1/testestream.csprojAssemblyReference.cache
+/home/victorfgs/Área de Trabalho/Research/testestream/obj/Debug/netcoreapp2.1/testestream.csproj.CoreCompileInputs.cache
+/home/victorfgs/Área de Trabalho/Research/testestream/obj/Debug/netcoreapp2.1/testestream.RazorAssemblyInfo.cache
+/home/victorfgs/Área de Trabalho/Research/testestream/obj/Debug/netcoreapp2.1/testestream.RazorAssemblyInfo.cs
+/home/victorfgs/Área de Trabalho/Research/testestream/obj/Debug/netcoreapp2.1/testestream.AssemblyInfoInputs.cache
+/home/victorfgs/Área de Trabalho/Research/testestream/obj/Debug/netcoreapp2.1/testestream.AssemblyInfo.cs
+/home/victorfgs/Área de Trabalho/Research/testestream/obj/Debug/netcoreapp2.1/testestream.RazorTargetAssemblyInfo.cache
+/home/victorfgs/Área de Trabalho/Research/testestream/obj/Debug/netcoreapp2.1/testestream.dll
+/home/victorfgs/Área de Trabalho/Research/testestream/obj/Debug/netcoreapp2.1/testestream.pdb
